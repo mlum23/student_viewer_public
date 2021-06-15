@@ -1,9 +1,13 @@
-# Install Command
-yarn add  @wojtekmaj/enzyme-adapter-react-17
-npm install enzyme
+# Student Viewer
+Fetches data from an API and display information about the student.
 
-# Run Command
-npm start
+## Features
+- Dynamically filter by student name
+- Dynamically filter by tags
+- Add tags to each student
+- Expand to view test scores
+- Calculate average test scores
 
-# Port
-3000
+## Tech Stack
+- React
+- JavaScript
