@@ -2,7 +2,7 @@
 Fetches data from an API and display information about the student.
 
 ## Demo
-[Click here for demo] (https://michaellum.ml/student_viewer/)
+[Click here for demo](https://michaellum.ml/student_viewer/)
 
 ## Features
 - Dynamically filter by student name
